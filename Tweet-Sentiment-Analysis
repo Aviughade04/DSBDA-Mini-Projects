@@ -1,0 +1,16 @@
+# Tweet Sentiment Classification
+
+## Objective
+Classify tweets as positive or negative using Machine Learning.
+
+## Tools Used
+- Python
+- Pandas
+- Scikit-learn
+
+## Features
+- Text vectorization using TF-IDF
+- Sentiment prediction using Logistic Regression
+
+## Output
+- Predicts whether a tweet is positive or negative
